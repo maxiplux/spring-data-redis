@@ -16,7 +16,7 @@
 	</parent>
 
 	<properties>
-		<springdata.keyvalue>2.2.0.BUILD-SNAPSHOT</springdata.keyvalue>
+		<springdata.keyvalue>2.2.1.RELEASE</springdata.keyvalue>
 		<jta>1.1</jta>
 		<beanutils>1.9.2</beanutils>
 		<xstream>1.4.8</xstream>
